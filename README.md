@@ -2,7 +2,7 @@
 **AdnanAliMumtaz/AdnanAliMumtaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 # 📜 About Me:
-As a 2nd-year Computer Science Student, I am eager to develop my skills in Software Engineering and explore new technologies. On GitHub, I am actively working on projects to improve my coding abilities and gain hands-on experience in the field. My goal is to contribute to meaningful and impactful projects, and collaborate with other developers to learn and grow together.
+As a passionate and driven second-year Computer Science student, I am constantly seeking opportunities to enhance my skills and gain valuable industry experience. With a strong academic background and a keen interest in exploring diverse areas of Computer Science, particularly Artificial Intelligence, I am proficient in C++, C#, Python, and .NET framework development. My expertise in Agile methodologies and Software Development using Engineering principles further bolsters my capabilities.
 
 
 ## 🌐 Socials:
