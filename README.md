@@ -1,5 +1,5 @@
 # 💫 About Me:
-As a passionate and driven second-year Computer Science student, I am constantly seeking opportunities to enhance my skills and gain valuable industry experience. With a strong academic background and a keen interest in exploring diverse areas of Computer Science, particularly Artificial Intelligence, I am proficient in C++, C#, Python, and .NET framework development. My expertise in Agile methodologies and Software Development using Engineering principles further bolsters my capabilities.<br><br>#ComputerScience #ArtificialIntelligence #SoftwareDevelopment #AgileMethodologies
+Final year Computer Science student with a passion for coding and a strong desire to become a Software Engineer. Proficient in C++, C#, HTML, CSS, JavaScript, Python, and SQL, I'm well-equipped to tackle real-world software challenges. Currently, I'm diving into Flutter and Java to expand my skill set. Let's connect and explore opportunities to innovate together!<br><br>#ComputerScience #ArtificialIntelligence #SoftwareDevelopment #AgileMethodologies
 
 
 ## 🌐 Socials:
