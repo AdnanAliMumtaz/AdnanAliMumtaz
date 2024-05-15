@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Adnan Ali Mumtaz, a Computer Science graduate from the University of Central Lancashire, expecting to achieve a first-class honours degree. My journey in software development is driven by a passion for solving complex problems and creating innovative solutions that make a difference.<br><br>#ComputerScience #ArtificialIntelligence #SoftwareDevelopment #AgileMethodologies
+I am Adnan Ali Mumtaz, a Graduate Software Engineer, expecting to achieve a first-class honours degree in Computer Science from University of Central Lancashire. My journey in software development is driven by a passion for solving complex problems and creating innovative solutions that make a difference.<br><br>#ComputerScience #ArtificialIntelligence #SoftwareDevelopment #AgileMethodologies
 
 
 ## 🌐 Socials:
