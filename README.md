@@ -1,5 +1,5 @@
 # 💫 About Me:
-Final year Computer Science student with a passion for coding and a strong desire to become a Software Engineer. Proficient in C++, C#, HTML, CSS, JavaScript, Python, and SQL, I'm well-equipped to tackle real-world software challenges. Currently, I'm diving into Flutter and Java to expand my skill set. Let's connect and explore opportunities to innovate together!<br><br>#ComputerScience #ArtificialIntelligence #SoftwareDevelopment #AgileMethodologies
+I am Adnan Ali Mumtaz, a Computer Science graduate from the University of Central Lancashire, expecting to achieve a first-class honours degree. My journey in software development is driven by a passion for solving complex problems and creating innovative solutions that make a difference.<br><br>#ComputerScience #ArtificialIntelligence #SoftwareDevelopment #AgileMethodologies
 
 
 ## 🌐 Socials:
