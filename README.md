@@ -2,7 +2,7 @@
   <h2><a href="https://adnanalimumtaz.netlify.app">🔗 Visit Personal Portfolio</a></h2>
 </div>
 
-I am Adnan Ali Mumtaz, a recenet First-Class BSC Computer Science Graduate. My journey in software development is driven by a passion for solving complex problems and creating innovative solutions that make a difference.<br><br>
+I am Adnan Ali Mumtaz, a recent First-Class BSC Computer Science Graduate. My journey in software development is driven by a passion for solving complex problems and creating innovative solutions that make a difference.<br><br>
 
 
 # 🔬 Tech Stack
