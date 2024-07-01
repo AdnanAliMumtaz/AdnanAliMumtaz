@@ -2,7 +2,9 @@
   <h2><a href="https://adnanalimumtaz.netlify.app">🔗 Visit Personal Portfolio</a></h2>
 </div>
 
-I am Adnan Ali Mumtaz, a recent First-Class BSC Computer Science Graduate. My journey in software development is driven by a passion for solving complex problems and creating innovative solutions that make a difference.<br><br>
+👨‍💻 I am a First-Class BSc Computer Science graduate with a passion for software development and teaching. My technical expertise includes Java, C++, Python, C#, and Dart, and I have practical experience with frameworks such as ASP.NET MVC and Flutter. I have developed projects like a Traffic Flow Optimiser 🚦 and a Gym Management Web Application 🏋️‍♂️, showcasing my skills in multithreading, concurrency management, and full-stack development.
+
+🎓 Having completed a Computer Science teaching internship, I am now seeking full-time Graduate Software Engineering opportunities. I am dedicated to continuous learning 📚 and excel in problem-solving 🧩, eager to leverage my skills and experiences to make impactful contributions in the software engineering field. Currently, I am also expanding my skill set by learning the MERN stack 🌐.<br><br>
 
 
 # 🔬 Tech Stack
